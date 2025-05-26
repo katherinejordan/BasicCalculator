@@ -1,0 +1,7 @@
+# Ignore xcode data not relevant to entire project
+calculator.xcodeproj/xcuserdata
+
+# Ignore IDE settings
+.vscode
+
+
